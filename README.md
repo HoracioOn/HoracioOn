@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @HoracioOn
 - 👀 I’m interested in Branding, Web Design, and a lot of things!
-- 🌱 I’m currently learning on Oracle Next Education.
 - 💞️ I’m looking to collaborate on the FrontEnd side of proyects.
 - 📫 How to reach me:
 ▲ horacio@nucleostudio.com
